@@ -29,12 +29,9 @@ Teacher puts up  the questions , and the students will be able to appear test , 
  
  And we have have created a simple gui in html and css but we have not linked it due to lack of time.
  
- ## Contributors :
+## Contributors :
  Manish Jain
  Krupal Jadhav
  Deepesh Gupta
  
- 
-
-
 
